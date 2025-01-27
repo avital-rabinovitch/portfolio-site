@@ -3,13 +3,12 @@ title: Avital's Portfolio
 ---
 
 
-Hello and welcome! This is my Portfolio. 
 
-Fun links:
+Find me...
 
-[[Resumes I Admire]]
+[[who is she?]]
 
-[[Ideation]]
+[[me myself and blog]]
 
-[[20201127 VL Portfolio Workshop]]
+[[where else does she wander?]] 
 
