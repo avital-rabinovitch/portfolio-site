@@ -1,6 +1,6 @@
 ---
 draft: "false"
 ---
-*WIP...*
+==*WIP...*==
 
 About how to navigate the site/me on the internet. 
