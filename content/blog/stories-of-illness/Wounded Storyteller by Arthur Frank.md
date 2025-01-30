@@ -42,6 +42,7 @@ The visuals would be whatever comes out. Ideally I'd have some of the track I wo
 My ex who introduced me to Depeche Mode described my visual style as, "Images akin to how querents in my business describe their nightmares."
 
 I think they meant all feelings and dreams 😉
+
 ![[drawing1.jpg]]
 
 *an example...i am collecitng my drawings*
