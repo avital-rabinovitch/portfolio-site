@@ -1,3 +1,11 @@
+# Brief
+
+
+*Make a web-based portfolio of your work. Include at least three items in the portfolio. If you already have a web-based portfolio, make an experimental portfolio that takes a different approach from the portfolio you already have. Post a link to your portfolio on your blog. In addition, prepare a list of five or more portfolio sites that you admire.*
+
+
+# Process
+
 So my blog needed a link to the portfolio according to my class brief. I'll comply.
 
 This is a "blog post" of ***portfolio: the assignment***
