@@ -13,4 +13,6 @@ Intro to blog
 
 # Recent Posts
 
-Jan 26 2025: [[Portfolio]]
+Feb 02 2025: [[Asgmt 2 Abstract]]
+Jan 30 2025: [[Wounded Storyteller by Arthur Frank]]
+Jan 26 2025: [[Asgmt 1 Portfolio]]
