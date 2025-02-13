@@ -274,57 +274,16 @@ Immersive space for audio of parents to discuss/invoke nostalgia
 
 **Background**
 
-There is this topic. This is what we know about it. This is why this topic is important.
+Audio-centered immersive entertainment has existed since the midcentury. The first audio guided museum tour was in 1952 ([source](https://www.guide-id.com/explore/the-history-of-audio-guides)) and the popular "It's A Small World" Disney ride attraction opened in for the 1964 World's Fair ([source](https://disneyworld.disney.go.com/attractions/magic-kingdom/its-a-small-world/)). These two immersive experience land on different points of entertainingly immersive and contextually informative. In this project I defined metrics for the entertainment and informative factors of audio immersive space to inform how to develop a space that is meant to invoke intergeneration nostalgia for the participant who both interacts with the space in the form of listened and interactive with the furniture and decorative parts of the room(s) they have inhabited. This was done first by conducting interviews on what nostalgia for older generation music meant for listeners whether it be for the music of the parent's generation or music of their youth. Demographics centered majority on listeners with immigrant older generation of listeners and second, a demographic of old-school DJs and promoters of the house music scene. This informed the response the spaces were designed to achieve as a baseline metric. Subsequently, rooms were rented and then set up to play audio with different furniture layouts. This tested for variations participants found more comfortable and more engaging. Lastly, the content of track itself was iteratively designed first including just the music of the past times and then iterated on different mixdowns of incorporating the music with spoken audio interviews contextualizing the experience of listening, dancing to, and even producing the audio. The results led to finding that spaces with music already playing when participants enter and synchronizing the spoken word with lighting of certain furniture pieces that are placed by decorations that have to do with the interviews yielded an experience that was rated as "easiest to understand". Withing this subset of iterations, the experiences that were furnished with the most artifacts that particpants rated as "timely accurate" then led to responses that were in line with the metric used for nostalgia or at least emotions that participants labeled as "loving" in over 85% of tests.
 
-**Research Question**
 
-On this topic, this study was about these things. These are the things.
-
-**Methodology**
-
-This is how the research was done. This was how interviews were conducted. This was how subjects were tested. 
-
-This was how data was collected. 
-
-These were the metrics for success. These are the steps to assess for those metrics.
-
-**Results**
-
-This was how data was anaylyzed and then synthesized. These were the deductions made from the synthesizing.
-
-**Conclusion**
-
-This is why the results are useful, This is the new knowledge the results add.
 
 ---
 
 ### Idea 2:
 
-Prints for events/community -- track, place, feedback 
 
-**Background**
-
-There is this topic. This is what we know about it. This is why this topic is important.
-
-**Research Question**
-
-On this topic, this study was about these things. These are the things.
-
-**Methodology**
-
-This is how the research was done. This was how interviews were conducted. This was how subjects were tested. 
-
-This was how data was collected. 
-
-These were the metrics for success. These are the steps to assess for those metrics.
-
-**Results**
-
-This was how data was anaylyzed and then synthesized. These were the deductions made from the synthesizing.
-
-**Conclusion**
-
-This is why the results are useful, This is the new knowledge the results add.
+Social interactions extend beyond diplomacy and personal development. Personal satisfaction and cultural growth directly depend on a human's environment containing social gatherings. In this study gatherings were defined as parties in private spaces or private invites in New York City that were not centered on food and at least had curated music playing for the event. This study studied how such gathering were promoted from the midcentury to now--noting the use of telephones, paper invites, and the use of the Internet both for email invites, web based invites (like on Eventbrite and partiful) and promoting on social media. This projected specifically asked what style of invitations best results in a tasteful invite experience. Moreover, the engagement metric of attendance and being overcapacity was weighed less than interviews with event hosts, talents, and promoters attributed as their current metrics for a successful event, The motivation for this was the notion that the event and business market is oversaturated and understanding that as long as enough attendees are there for the purpose of the event (eg. dancing at a DJ event or meeting at speedating) and the businesses do not lose money, it consistutes as a successful event for logistics purposes. But what about taste? Through iterating on different handheld invites inspired by ones found in archives from the 1990s magnetic invites were designed and produced to simulate and event promoter using a product that must be recieved by participants to attend the event. The product was designed both as a paper print, a magnet, and a wearable. It was then tested for aesthetic, for cognitive memory of event, and the emotional and narrative impact it had on the invitee. This study found that the novel way of building the modular magnetic model for the event was most uniquely effective as far as the narrative experience. However, the wearable was not as an emotionally satisfying experience because it was discomforting at times, but the invitees were more aware of the event and excited to come because it meant they could take the wearable off.
 
 ---
 
@@ -430,6 +389,36 @@ This is why the results are useful, This is the new knowledge the results add.
 ### Idea 6:
 
 Immersive space to bridge people to local journalism and engagement.
+
+**Background**
+
+There is this topic. This is what we know about it. This is why this topic is important.
+
+**Research Question**
+
+On this topic, this study was about these things. These are the things.
+
+**Methodology**
+
+This is how the research was done. This was how interviews were conducted. This was how subjects were tested. 
+
+This was how data was collected. 
+
+These were the metrics for success. These are the steps to assess for those metrics.
+
+**Results**
+
+This was how data was anaylyzed and then synthesized. These were the deductions made from the synthesizing.
+
+**Conclusion**
+
+This is why the results are useful, This is the new knowledge the results add.
+
+---
+
+### Idea 7:
+
+Tattoo x social media x business x ethics -- how to repair an industry using web, how to tell business story with principle and "done the work legit" practice when industry can pose risk 
 
 **Background**
 
