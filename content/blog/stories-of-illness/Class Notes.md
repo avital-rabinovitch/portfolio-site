@@ -1,6 +1,33 @@
 ---
-draft: "true"
+draft: "false"
 ---
+# Week 4: Thu Feb 13
+
+## Visitor
+
+### visual
+
+Figure drawing love
+Emotion, warmth, composition -- like the water
+
+### Publication
+
+Self publish
+Small. Print at campus computer to sell at craft and zine nights. Scale up as project scales. New projects might need to scale down. ==*kofi when process processing?*==
+
+### Time
+
+Similar to Clock Chapter in *What Can a Body Do?*
+Took 10 years
+During publication was homeless and surgery
+Work with people **disability-minded** and be protected by contracts and community -- use of time is human not fiction used against you (the coorporate evil spun truth
+ 
+
+
+
+---
+
+
 
 # Week 3: Thu Feb 6
 
