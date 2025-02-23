@@ -108,7 +108,7 @@ Further direction/readings
 
 ### Related Sources
 
-[[#[2] Book review Smil, Vaclav (2023) Invention and innovation.A brief history of hype andfailure]]]
+[[#[2] Book review Smil, Vaclav (2023) Invention and innovation.A brief history of hype andfailure]]
 
 ---
 ## \[2] Book review: Smil, Vaclav (2023):Invention and innovation.A brief history of hype andfailure
