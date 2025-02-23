@@ -1,4 +1,7 @@
-**Jump to** ==[[#Annotated Bibliography]]==
+**Jump to** ==[[#Annotated Bibliography]]== *or view contextual research work I have done [[Asgmt 4.1 Annotated Bibliography Progressed|beyond my initial Annotated Bibliography]] assignment* 
+
+> [!summary]
+> ==Lorem ipsum== dolor sit amet, consectetur adipiscing elit. Cras commodo libero sed odio auctor sagittis. Nunc dictum eros ullamcorper, bibendum.
 
 # Process
 
@@ -30,28 +33,30 @@ Links to
 > An ==identifiable subgroup== **within** a ==society or group of people==, especially one ==characterized by beliefs or interests== at **variance** with ==those of the larger group==; the **distinctive** ==ideas, practices, or way of life== of such a subgroup.
 
 ---
-###### ***Note to self:*** 
 
-With each group I research, interview, or collaborate with for context or for practice collect a "==working distinction==" of their **variant**. 
+> [!note] *Note to self:* 
+> With each group I research, interview, or collaborate with for context or for practice collect a "**working distinction**" of their **variant**. 
+> 
+> Additionally, explore the intersection of **grass roots and variants**. ^8ffa67
 
-Additionally, explore the intersection of ==grass roots and variants==. ^8ffa67
+
+
 ### [Psychology](https://guides.nyu.edu/psychology)
 
 By [Stephen Maher](https://guides.nyu.edu/prf.php?id=5c5055ae-7cdb-11ed-9922-0ad758b798c3) Last Updated Feb 18, 2025 927 views this year
 
 ---
-###### ***Note to self:*** 
-
-==Lorem ipsum== dolor sit amet, consectetur adipiscing elit. Cras commodo libero sed odio auctor sagittis. Nunc dictum eros ullamcorper, bibendum.
+> [!note] *Note to self:* 
+ ==Lorem ipsum== dolor sit amet, consectetur adipiscing elit. Cras commodo libero sed odio auctor sagittis. Nunc dictum eros ullamcorper, bibendum.
 
 ### [Sociology](https://guides.nyu.edu/sociology)
 
 By [Jill Conte](https://guides.nyu.edu/prf.php?id=5920d4c3-7cdb-11ed-9922-0ad758b798c3) Last Updated Feb 20, 2025 338 views this year
 
 ---
-###### ***Note to self:*** 
+> [!note] *Note to self:* 
+ ==Lorem ipsum== dolor sit amet, consectetur adipiscing elit. Cras commodo libero sed odio auctor sagittis. Nunc dictum eros ullamcorper, bibendum.
 
-==Lorem ipsum== dolor sit amet, consectetur adipiscing elit. Cras commodo libero sed odio auctor sagittis. Nunc dictum eros ullamcorper, bibendum.
 # Topics
 
 ## Music
@@ -63,6 +68,8 @@ By [Jill Conte](https://guides.nyu.edu/prf.php?id=5920d4c3-7cdb-11ed-9922-0ad75
 
 
 ## (Social Psychology)
+- [ ] social mileu
+- [ ] hype
 
 ## Uncategorized
 
@@ -71,8 +78,29 @@ By [Jill Conte](https://guides.nyu.edu/prf.php?id=5920d4c3-7cdb-11ed-9922-0ad75
 - [ ] grassroots and varriants ([[#^8ffa67|reference]])
 
 # Annotated Bibliography
-## Reading 1
+## Reading 1.1 : Invention and innovation : a brief history of hype and failure
 
+## Frontmatter
+
+### Citation
+
+### Topic Relations
+**social psychology**, **history**, **metrics**
+
+## Importance
+
+## Further
+
+# Reading 1.2: Book review:Smil, Vaclav (2023):Invention and innovation.A brief history of hype andfailure
+
+## Frontmatter
+
+### Citation
+
+### Topic Relations
+**social psychology**, **history**, **metrics**
+
+### Related Texts
 ## Reading 2
 
 ## Reading 3
