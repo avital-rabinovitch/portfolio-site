@@ -3,6 +3,20 @@
 > [!summary]
 > ==Lorem ipsum== dolor sit amet, consectetur adipiscing elit. Cras commodo libero sed odio auctor sagittis. Nunc dictum eros ullamcorper, bibendum.
 
+# Notes
+
+Source: [Annotated Bibliography from Allison Parish](https://capstone.decontextualize.com/lit-review/#annotated-bibliography)
+
+In this class, your contextual review should result in an _annotated bibliography_. (Note: The "contextual review" process is ongoing! You shouldn't stop looking for references after you're done with this assignment.) The annotated bibliography is a list of **things that you found**, **cited** in appropriate bibliographic format, along with **a paragraph or two** that ==summarizes the source== and ==reflects on its importance for your own project==.
+
+The purpose of the annotated bibliography is to help you ==direct your research== and to show to the instructor that you've been doing the reading. The annotated bibliography can also serve as a starting point for the "Related work'' section of your research paper.
+
+Helpful resources:
+
+- [Annotated bibliographies](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/index.html) from the Purdue Online Writing Lab, with [samples](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/annotated_bibliography_samples.html)
+- [Annotated bibliography](https://writing.wisc.edu/handbook/assignments/annotatedbibliography/) from the UW-Madison Writing Center, which lists several styles and rhetorical techniques that you can use
+- From Lydia: [Shannon Mattern on Abstracts + Annotated Bibliographies](https://wordsinspace.net/2010/08/20/abstracts-annotated-bibliographies/); [Shannon Mattern on Literature Review/Mediagraphy](https://wordsinspace.net/2010/08/20/the-literature-reviewmediagraphy/)
+
 # Process
 
 By now, Feb 23, 2025: I have gathered some sources, I have conducted formal and informal interviews, I have attended events, and through all of that I have taken notes. These notes are a blend of reflection of what interests me, topics to explore based on self-directed research and recommendations from conversations, and personal testimony of the interviewees. 
@@ -78,52 +92,191 @@ By [Jill Conte](https://guides.nyu.edu/prf.php?id=5920d4c3-7cdb-11ed-9922-0ad75
 - [ ] grassroots and varriants ([[#^8ffa67|reference]])
 
 # Annotated Bibliography
-## Reading 1.1 : Invention and innovation : a brief history of hype and failure
 
-## Frontmatter
 
-### Citation
+## \[1] Invention and innovation : a brief history of hype and failure
 
-### Topic Relations
+#### Citation
+
+#### Topic Relations and Key Words
 **social psychology**, **history**, **metrics**
 
-## Importance
+### Entry
+Summary
+Importance to project
+Further direction/readings
 
-## Further
+### Related Sources
 
-# Reading 1.2: Book review:Smil, Vaclav (2023):Invention and innovation.A brief history of hype andfailure
+[[#[2] Book review Smil, Vaclav (2023) Invention and innovation.A brief history of hype andfailure]]]
 
-## Frontmatter
 
-### Citation
+## \[2] Book review: Smil, Vaclav (2023):Invention and innovation.A brief history of hype andfailure
 
-### Topic Relations
+### Frontmatter
+
+#### Citation
+
+#### Topic Relations and Key Words
 **social psychology**, **history**, **metrics**
 
-### Related Texts
-## Reading 2
+### Entry
+Summary
+Importance to project
+Further direction/readings
+### Related Sources
 
-## Reading 3
+[[#[1] Invention and innovation a brief history of hype and failure]]
+
+
+## \[3] What it Becomes
+
+### Frontmatter
+
+#### Citation
+
+#### Topic Relations and Key Words
+
+### Entry
+Summary
+Importance to project
+Further direction/readings
+ 
+### Related Sources
 
 ## Reading 4
 
+### Frontmatter
+
+#### Citation
+
+#### Topic Relations and Key Words
+**a**,**b**,**c**
+
+### Entry
+Summary
+Importance to project
+Further direction/readings
+### Related Sources
+
 ## Reading 5
+
+### Frontmatter
+
+#### Citation
+
+#### Topic Relations and Key Words
+**a**,**b**,**c**
+
+### Entry
+Summary
+Importance to project
+Further direction/readings
+### Related Sources
 
 ## Reading 6
 
+### Frontmatter
+
+#### Citation
+
+#### Topic Relations and Key Words
+**a**,**b**,**c**
+
+### Entry
+Summary
+Importance to project
+Further direction/readings
+### Related Sources
+
 ## Reading 7
 
+
+### Frontmatter
+
+#### Citation
+
+#### Topic Relations and Key Words
+**a**,**b**,**c**
+
+### Entry
+Summary
+Importance to project
+Further direction/readings
+### Related Sources
 ## Reading 8
 
+### Frontmatter
+
+#### Citation
+
+#### Topic Relations and Key Words
+**a**,**b**,**c**
+
+### Entry
+Summary
+Importance to project
+Further direction/readings
+### Related Sources
 ## Reading 9
 
+### Frontmatter
+
+#### Citation
+
+#### Topic Relations and Key Words
+**a**,**b**,**c**
+
+### Entry
+Summary
+Importance to project
+Further direction/readings
+### Related Sources
 ## Reading 10
 
+### Frontmatter
+
+#### Citation
+
+#### Topic Relations and Key Words
+**a**,**b**,**c**
+
+### Entry
+Summary
+Importance to project
+Further direction/readings
+### Related Sources
 ## Reading 11
 
+### Frontmatter
+
+#### Citation
+
+#### Topic Relations and Key Words
+**a**,**b**,**c**
+
+### Entry
+Summary
+Importance to project
+Further direction/readings
+### Related Sources
 ## Reading 12
 
-# Future Work
+### Frontmatter
+
+#### Citation
+
+#### Topic Relations and Key Words
+**a**,**b**,**c**
+
+### Entry
+Summary
+Importance to project
+Further direction/readings
+### Related Sources
+
+---
+# Future Work and Directions
 
 ## NYU Librarians![[20250223_nyuLibrarian_1.png]]![[Screenshot 2025-02-23 at 10.20.30 AM.png]]
 ### Tell us about the topic you are researching. Please be as specific as possible. What kind of information are you looking for? What steps have you taken so far in researching this topic?
