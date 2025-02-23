@@ -1,4 +1,4 @@
-**Jump to** ==[[#Annotated Bibliography]]== *or view contextual research work I have done [[Asgmt 4.1 Annotated Bibliography Progressed|beyond my initial Annotated Bibliography]] assignment* 
+**Jump to** [[#Annotated Bibliography]] *or view contextual research work I have done [[Asgmt 4.1 Annotated Bibliography Progressed|beyond my initial Annotated Bibliography]] assignment* 
 
 > [!summary]
 > ==Lorem ipsum== dolor sit amet, consectetur adipiscing elit. Cras commodo libero sed odio auctor sagittis. Nunc dictum eros ullamcorper, bibendum.
