@@ -110,7 +110,7 @@ Further direction/readings
 
 [[#[2] Book review Smil, Vaclav (2023) Invention and innovation.A brief history of hype andfailure]]]
 
-
+---
 ## \[2] Book review: Smil, Vaclav (2023):Invention and innovation.A brief history of hype andfailure
 
 ### Frontmatter
@@ -128,7 +128,7 @@ Further direction/readings
 
 [[#[1] Invention and innovation a brief history of hype and failure]]
 
-
+---
 ## \[3] What it Becomes
 
 ### Frontmatter
@@ -144,6 +144,7 @@ Further direction/readings
  
 ### Related Sources
 
+---
 ## Reading 4
 
 ### Frontmatter
@@ -159,6 +160,7 @@ Importance to project
 Further direction/readings
 ### Related Sources
 
+---
 ## Reading 5
 
 ### Frontmatter
@@ -174,6 +176,7 @@ Importance to project
 Further direction/readings
 ### Related Sources
 
+---
 ## Reading 6
 
 ### Frontmatter
@@ -204,6 +207,8 @@ Summary
 Importance to project
 Further direction/readings
 ### Related Sources
+
+---
 ## Reading 8
 
 ### Frontmatter
@@ -218,6 +223,8 @@ Summary
 Importance to project
 Further direction/readings
 ### Related Sources
+
+---
 ## Reading 9
 
 ### Frontmatter
@@ -232,6 +239,8 @@ Summary
 Importance to project
 Further direction/readings
 ### Related Sources
+
+---
 ## Reading 10
 
 ### Frontmatter
@@ -246,6 +255,8 @@ Summary
 Importance to project
 Further direction/readings
 ### Related Sources
+
+---
 ## Reading 11
 
 ### Frontmatter
@@ -260,6 +271,8 @@ Summary
 Importance to project
 Further direction/readings
 ### Related Sources
+
+---
 ## Reading 12
 
 ### Frontmatter
@@ -276,6 +289,7 @@ Further direction/readings
 ### Related Sources
 
 ---
+
 # Future Work and Directions
 
 ## NYU Librarians![[20250223_nyuLibrarian_1.png]]![[Screenshot 2025-02-23 at 10.20.30 AM.png]]
